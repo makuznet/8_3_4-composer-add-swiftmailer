@@ -30,7 +30,7 @@ composer update --with-all-dependencies
 4. Clone your repo built on the basis of this example repo in their dir. 
 > Don't miss the dot at the end of the command !
 ```bash
-git clone https://github.com/makuznet/ruby_basics.git .
+git clone https://github.com/<whatever>.git .
 ```
  5. Install all the software listed in `composer.json` and dependencies listed in `composer.lock` file.
 ```bash
