@@ -1,6 +1,6 @@
-# Postgresql migration PHP
+# Software distribution via Composer files
 
-> This repo is an example of preparation of a bundle consisting of Composer — PHP packet manager and Swiftmailer app, which your team can use later ensuring software similarity.   
+> This repo is a couple of files installing Swiftmailer app by means of Composer — PHP packet manager for ensuring software similarity among php team members.   
 
 ## Usage 
 ### Check Composer version
