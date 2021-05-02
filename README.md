@@ -21,7 +21,7 @@ I edited `composer.json` file by changing `6.2.0` version to `6.2.7` version, sa
 ```bash
 composer update --with-all-dependencies
 ```
-> Add `Vendor` folder to `.gitignore` before committing and pushing to remote.   
+> Add `Vendor` folder and `composer.phar` file to `.gitignore` before committing and pushing to remote.   
 
 ###  What does your team mate do?
 1. Install PHP.
